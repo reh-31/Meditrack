@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Customize this file to define a launch screen that gets shown before
+    Flutter paints its first frame.
+    For information about making Android splash screens, see:
+    https://developer.android.com/develop/ui/views/launch/splash-screen
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background color matching our primary blue -->
+    <item android:drawable="@color/splash_background" />
+</layer-list>
